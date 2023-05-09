@@ -1,0 +1,3 @@
+[submodule "projects/chef-d-oeuvre"]
+	path = projects/chef-d-oeuvre
+	url = https://gitlab.com/AnnaLaporte/chef-d-oeuvre.git
